@@ -1,0 +1,7 @@
+site_name: Documentacion PI
+theme:
+ name: material
+nav:
+- Inicio: index.md
+- Caracterizacion: caracterizacion.md
+- ….
