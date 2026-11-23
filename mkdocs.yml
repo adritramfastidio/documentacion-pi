@@ -4,4 +4,15 @@ theme:
 nav:
 - Inicio: index.md
 - 01. Presentacion: 01 - presentacion.md
-- Caracterizacion: caracterizacion.md
+- 02. caracterizacion: 02 - caracterizacion.md
+- 03. analisis-requisitos: 03 - analisis-requisitos.md
+- 04. diseno-solucion: 04 - diseno-solucion.md
+- 05. planificacion: 05 - planificacion.md
+- 06. modelo_datos: 06 - modelo_datos
+- 07. arquitectura: 07 - arquitectura.md
+- 08. desarrollo: 08 - desarrollo.md
+- 09. pruebas: 09 - pruebas.md
+- 10. seguridad: 10 - seguridad.md
+- 11. puesta_marcha: 11 - puesta_marcha.md
+- 12. manuales: 12 - manuales.md
+- 13. conclusiones: 13 - conclusiones.md
